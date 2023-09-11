@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7250709a-9eb2-439c-a5fa-b2616b08869c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../JWT_Fastapi/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JWT_Fastapi/.idea/JWT_Fastapi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JWT_Fastapi/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JWT_Fastapi/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JWT_Fastapi/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JWT_Fastapi/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JWT_Fastapi/JWT_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JWT_Fastapi/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JWT_Fastapi/dent_models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_25/.idea/Lesson_25.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_26/.idea/Lesson_26.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_27/.idea/Lesson_27.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_27_HW/.idea/Lesson_27_HW.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_28/.idea/Lesson_28.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_29/.idea/Lesson_29.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_33/.idea/Lesson_33.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../block_test/.idea/block_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pLesson_30/.idea/pLesson_30.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quize_api/.idea/quize_api.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Oreo" beforeDir="false" afterPath="$PROJECT_DIR$/../Oreo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project_Panda_1" beforeDir="false" afterPath="$PROJECT_DIR$/../Project_Panda_1" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2V15eeWgH7dmqia93JQSuBeUOKK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Asus/PycharmProjects/Social_media"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Social_media" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7250709a-9eb2-439c-a5fa-b2616b08869c" name="Changes" comment="" />
+      <created>1693990842711</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693990842711</updated>
+    </task>
+    <servers />
+  </component>
+</project>
