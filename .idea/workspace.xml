@@ -21,17 +21,11 @@
       <change afterPath="$PROJECT_DIR$/../Lesson_28/.idea/Lesson_28.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Lesson_29/.idea/Lesson_29.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Lesson_33/.idea/Lesson_33.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/commentservice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/postservice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/userservice.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../block_test/.idea/block_test.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../pLesson_30/.idea/pLesson_30.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../quize_api/.idea/quize_api.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Oreo" beforeDir="false" afterPath="$PROJECT_DIR$/../Oreo" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Project_Panda_1" beforeDir="false" afterPath="$PROJECT_DIR$/../Project_Panda_1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/user/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/user_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/user/user_api.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
