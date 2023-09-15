@@ -1,6 +1,6 @@
-from fastapi import APIRouter
+from fastapi import APIRouter, UploadFile
 
-from user import UserModel, UserRegisterModel, UserLoginModel
+from user import UserRegisterModel, UserLoginModel, EditUserModel
 #Создаем компонент
 user_router = APIRouter(prefix='/user', tags=['Управление с пользователями'])
 
@@ -19,7 +19,7 @@ async def register_user(data: UserRegisterModel):
 
 #Запрос на изменение информации пользователя
 @user_router.put('/change_info')
-async def change_info(data: UserModel):
+async def change_info(data: EditUserModel):
     pass
 
 
