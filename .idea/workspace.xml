@@ -26,6 +26,17 @@
       <change afterPath="$PROJECT_DIR$/../quize_api/.idea/quize_api.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Oreo" beforeDir="false" afterPath="$PROJECT_DIR$/../Oreo" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Project_Panda_1" beforeDir="false" afterPath="$PROJECT_DIR$/../Project_Panda_1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comments/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/comments/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comments/comment_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/comments/comment_api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/commentservice.py" beforeDir="false" afterPath="$PROJECT_DIR$/database/commentservice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/database/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/postservice.py" beforeDir="false" afterPath="$PROJECT_DIR$/database/postservice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/photo/photo.py" beforeDir="false" afterPath="$PROJECT_DIR$/photo/photo_api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/post/user_post_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/post/user_post_api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/user/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/user_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/user/user_api.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -4,6 +4,7 @@ from pydantic import BaseModel
 class CommentModel(BaseModel):
     comment_text: str
     user_id: int
+    post_id: int
 
 #Валидатор на изменение коммента
 class EditCommentModel(BaseModel):

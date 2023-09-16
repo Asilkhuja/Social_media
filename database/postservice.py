@@ -5,7 +5,7 @@ from database import get_db
 
 
 #Добавить пост
-def add_post(user_id, post_text):
+def add_post_db(user_id, post_text):
     db = next(get_db())
 
     new_post= UserPost(user_id=user_id,
@@ -50,9 +50,13 @@ def delete_post_db(post_id):
     db = next(get_db())
 
     exact_post = db.query(UserPost).filter_by(id=post_id).first()
+    exact_post_photos = db.query(PostPhoto).filter_by(post_id=post_id).all()
 
     if exact_post:
-        db.delete()
+        db.delete(*exact_post_photos)
+        db.commit()
+
+        db.delete(exact_post)
         db.commit()
 
         return 'Успешно удалено'

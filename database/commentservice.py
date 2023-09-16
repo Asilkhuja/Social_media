@@ -5,7 +5,7 @@ from database.models import Comment
 
 
 #Опубликовать комментарий
-def add_comment_db(post, text, user_id):
+def add_comment_db(post_id, text, user_id):
     db = next(get_db())
 
     new_comment = Comment(post_id=post_id, comment_text=text, user_id=user_id)
@@ -43,4 +43,14 @@ def change_comment_db(comment_id, new_comment):
         db.commit()
 
         return 'Комментарий успешно изменен'
+
     return False
+
+
+#Получить все комментарии определнного поста
+def get_post_comments(post_id):
+    db = next(get_db())
+
+    exact_post_comments = db.query(Comment).filter_by(post_id=post_id).all()
+
+    return exact_post_comments

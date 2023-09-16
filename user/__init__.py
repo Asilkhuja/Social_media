@@ -13,7 +13,6 @@ class UserRegisterModel(BaseModel):
     email: str
     phone_number: str
     city: str
-    profile_photo: str
     password: str
 
 #Валидатор входа в аккаунт
